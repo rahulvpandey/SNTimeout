@@ -16,7 +16,7 @@ var _GlobalModalInterval = null;
 		"secWarningDuration":120,
 		"minSessionTimeout":30,
 		'dialogTitle':' ',
-		'loginPage':'login.do'
+		'loginPage':'login.do',
 		'hbRetries': 2
 	};
 	var objDialog = null; //do not put in globals to to logging issue
